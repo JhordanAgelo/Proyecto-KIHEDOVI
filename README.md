@@ -16,20 +16,22 @@ El modúlo tiene como objetivo seleccionar un grupo o estudinate de un grupo.
 Apellidos y nombres | Rol
 --- | ---
 Capacoila Apolinario Jhon Carlos | Scrum Master
+Hinostroza Manco Jhosep | Developer
 Pimentel Palomino Hugo Walter Vicente | Scrum Master
+Ramos Perez Gian Carlos | Developer
 Ricaldi Mendez Jhordan | Developer
 Toribio Palacios Luis Enrique | Developer
-Hinostroza Manco Jhosep | Developer
-Ramos Perez Gian Carlos | Developer
+
 ## EQUIPO DE DESARROLLO
 Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente)
 :---: | ---
 **1** | Capacoila Apolinario Jhon Carlos
+**5** | Hinostroza Manco Jhosep 
 **2** | Pimentel Palomino Hugo Walter Vicente
+**6** | Ramos Perez Gian Carlos
 **3** | Ricaldi Mendez Jhordan
 **4** | Toribio Palacios Luis Enrique
-**5** | Hinostroza Manco Jhosep 
-**6** | Ramos Perez Gian Carlos
+
 ## ÍTEM UNO
 ### Historia de usuario detallada: HU002.
 Identificador | HU002
