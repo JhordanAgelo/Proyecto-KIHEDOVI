@@ -1,12 +1,13 @@
-# KIHEDOVI
+<h1 align="center">KIHEDOVI </h1>
+<p align="center"><img src="https://derechoshumanos.mainel.org/wp-content/uploads/2021/11/multi-etnico-grupo-escuela-estudiantes-ninos_3446-667.jpg" width="400"></a></p>
+<p align="center">
 
-![](https://derechoshumanos.mainel.org/wp-content/uploads/2021/11/multi-etnico-grupo-escuela-estudiantes-ninos_3446-667.jpg)
-
-![](https://img.shields.io/badge/Python-100%20%25-green)
-![](https://img.shields.io/badge/release-1.0-blue)
-![](https://img.shields.io/badge/Licence-Mit-yellow)
-![](https://img.shields.io/badge/Development-Finish-red)
-
+<p align="center">
+<a ><img src="https://img.shields.io/badge/Python-100%20%25-green" ></a>
+<a ><img src="https://img.shields.io/badge/release-1.0-blue" ></a>
+<a ><img src="https://img.shields.io/badge/Licence-Mit-yellow" ></a>
+<a ><img src="https://img.shields.io/badge/Development-Finish-red" ></a>
+</p>
 
 # Proyecto KIHEDOVI
 ## Módulo SeleccionEstudiante
