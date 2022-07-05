@@ -1,3 +1,13 @@
+# KIHEDOVI
+
+![](https://derechoshumanos.mainel.org/wp-content/uploads/2021/11/multi-etnico-grupo-escuela-estudiantes-ninos_3446-667.jpg)
+
+![](https://img.shields.io/badge/Python-100%20%25-green)
+![](https://img.shields.io/badge/release-1.0-blue)
+![](https://img.shields.io/badge/Licence-Mit-yellow)
+![](https://img.shields.io/badge/Development-Finish-red)
+
+
 # Proyecto KIHEDOVI
 ## Módulo SeleccionEstudiante
 **Descripción:**
@@ -39,3 +49,4 @@ Negociable | Conforme | Hugo | &#10003;
 Valiosa | Conforme | Jhon | &#10003;
 Estimable | Conforme | Jhordan | &#10003;
 Pequeña | Conforme | Hugo | &#10003;
+
