@@ -6,13 +6,19 @@ Apellidos y nombres | Rol
 --- | ---
 Capacoila Apolinario Jhon Carlos | Scrum Master
 Pimentel Palomino Hugo Walter Vicente | Scrum Master
-Ricaldi Mendez Jhordan | Scrum Master
+Ricaldi Mendez Jhordan | Developer
+Toribio Palacios Luis Enrique | Developer
+Hinostroza Manco Jhosep | Developer
+Ramos Perez Gian Carlos | Developer
 ## EQUIPO DE DESARROLLO
 Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente)
 :---: | ---
 **1** | Capacoila Apolinario Jhon Carlos
 **2** | Pimentel Palomino Hugo Walter Vicente
 **3** | Ricaldi Mendez Jhordan
+**4** | Toribio Palacios Luis Enrique
+**5** | Hinostroza Manco Jhosep 
+**6** | Ramos Perez Gian Carlos
 ## ÍTEM UNO
 ### Historia de usuario detallada: HU002.
 Identificador | HU002
