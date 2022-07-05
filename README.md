@@ -26,11 +26,11 @@ Toribio Palacios Luis Enrique | Developer
 Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente)
 :---: | ---
 **1** | Capacoila Apolinario Jhon Carlos
-**5** | Hinostroza Manco Jhosep 
-**2** | Pimentel Palomino Hugo Walter Vicente
-**6** | Ramos Perez Gian Carlos
-**3** | Ricaldi Mendez Jhordan
-**4** | Toribio Palacios Luis Enrique
+**2** | Hinostroza Manco Jhosep 
+**3** | Pimentel Palomino Hugo Walter Vicente
+**4** | Ramos Perez Gian Carlos
+**5** | Ricaldi Mendez Jhordan
+**6** | Toribio Palacios Luis Enrique
 
 ## ÍTEM UNO
 ### Historia de usuario detallada: HU002.
